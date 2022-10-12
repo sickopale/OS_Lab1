@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Vector.cpp
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\vector.h(22,18): warning C4251: vector::Vector::x: class "Number::Number" должен иметь dll-интерфейс для использования клиентами class "vector::Vector"
+C:\Users\Hokage\source\repos\Lab1\NumberLibrary\Number.h(3): message : см. объявление "Number::Number"
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\vector.h(23,18): warning C4251: vector::Vector::y: class "Number::Number" должен иметь dll-интерфейс для использования клиентами class "vector::Vector"
+C:\Users\Hokage\source\repos\Lab1\NumberLibrary\Number.h(3): message : см. объявление "Number::Number"
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\Vector.cpp(5,53): warning C4273: vector::Vector::Vector: несовместимое связывание dll
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\vector.h(16,3): message : см. предыдущее определение "{ctor}"
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\Vector.cpp(6,55): warning C4273: vector::Vector::operator +: несовместимое связывание dll
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\vector.h(17,10): message : см. предыдущее определение "+"
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\Vector.cpp(9,37): warning C4273: vector::Vector::getRaduis: несовместимое связывание dll
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\vector.h(18,18): message : см. предыдущее определение "getRaduis"
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\Vector.cpp(12,36): warning C4273: vector::Vector::getAngle: несовместимое связывание dll
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\vector.h(19,18): message : см. предыдущее определение "getAngle"
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\Vector.cpp(15,33): warning C4273: vector::Vector::toString: несовместимое связывание dll
+C:\Users\Hokage\source\repos\Lab1\DynamicVector\vector.h(20,15): message : см. предыдущее определение "toString"
+  Создание кода...
+     Создается библиотека C:\Users\Hokage\source\repos\Lab1\Debug\DynamicVector.lib и объект C:\Users\Hokage\source\repos\Lab1\Debug\DynamicVector.exp
+  DynamicVector.vcxproj -> C:\Users\Hokage\source\repos\Lab1\Debug\DynamicVector.dll
